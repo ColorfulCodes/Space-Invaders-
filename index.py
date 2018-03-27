@@ -4,11 +4,8 @@
 import os
 import random
 import time
-
-#Import the Turtle module
 import turtle
-#Required by MacOSX to show the window
-turtle.fd(0)
+
 #Set the animations speed to the maximum
 turtle.speed(0)
 #Change the background color
